@@ -26,12 +26,12 @@ Get Shell  http://ip:8888/?Axx8=whoami
 
 ## 指定端口 -p
 ```
-HTTPServer.exe -d C:\ToolsBox
+HTTPServer.exe -p 9999
 ```
 ![图片](https://user-images.githubusercontent.com/34683107/226166335-8bbb356d-9d31-4bab-9b6d-187c8f2cc7d0.png)
 ## 指定目录 -d
 ```
-HTTPServer.exe -d 
+HTTPServer.exe -d  C:\ToolsBox
 ```
 ![图片](https://user-images.githubusercontent.com/34683107/226166410-852d7da8-df3b-4e3e-b4c4-f27ca28dc0f5.png)
 
